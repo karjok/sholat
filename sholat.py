@@ -141,7 +141,7 @@ lg+"""\n77. """+lw+"""Gianyar    """+lg+"""154. """+lw+"""Menado     """+lg+"""2
       if int(inp) <= 82:
                   pass
       elif int(inp) > 83 and int(inp) <= 204:
-                  inp = str(int(inp)+1)
+                  inp = str(int(inp)-1)
       elif int(inp) >= 205:
                   inp = str(int(inp)-1)
       else:
