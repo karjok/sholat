@@ -1,5 +1,5 @@
 # Bissmillah
-Alhamdulilkah ukhty..</br>
+Alhamdulillah ukhty..</br>
 akhy udah selesai bikin tool yg insyaallah bisa ngingetin ukhty pas waktu solat udah tiba..</br>
 biar ukhty cepetan sholat, jadi ukhty nggak telat lagi sholatnya 💕.</br>
 dan kalo kita rajin sholat insyaallah auto masuk syurga.. 😁</br>
