@@ -15,14 +15,16 @@ alat semacam alarm untuk mengingatkan kita pada waktu sholat</br>
 
 
 # Cara Install
+harap perhatikan besar kecilnya huruf, dan tanda baca.
 ```
-$pkg update && pkg upgrade</br>
-$pkg install python git mpv</br>
-$git clone https://github.com/karjok/sholat</br>
-$cd sholat</br>
-$pip install -r modul.txt</br>
-$python sholat.py</br>
+$pkg update && pkg upgrade
+$pkg install python git mpv
+$git clone https://github.com/karjok/sholat
+$cd sholat
+$pip install -r modul.txt
+$python sholat.py
 ```
+
 
 # Kontak
 - https://t.me/om_karjok
