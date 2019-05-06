@@ -87,7 +87,7 @@ def gettime():
             kota = b.find('option', attrs={'value':ts})
             
             i= tr.find_all('td')
-            print(i)
+
             sc.write(i[0].text+','+i[1].text+','+i[2].text+','+i[5].text+','+i[6].text+','+i[7].text+','+i[8].text+','+kota.text)
            
       sc.close()
