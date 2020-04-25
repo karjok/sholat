@@ -355,7 +355,7 @@ def trdsholat():
       	print(i.center(60))
       ttt = Thread(name='adzan',target=suara)
       ttt.start()
-      while ttt.isAlive():
+      while ttt.is_alive():
             ani()
 def trdpuasa():
       global txt
